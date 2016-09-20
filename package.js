@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.versionsFrom('0.9.0');
+  api.versionsFrom('1.4.1.1');
   api.use(['underscore', 'ui', 'deps'], ['client', 'server']);
   api.export('i18n', ['client', 'server']);
   api.add_files('i18n.js', ['client', 'server']);
