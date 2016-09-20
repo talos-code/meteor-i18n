@@ -1,9 +1,5 @@
-Notes for updating to Meteor 0.9.0
+talos:anti-i18n
 ----------------------------------
-
-This package is now called `anti:i18n`.
-
-
 
 # Internationalization for Meteor
 
